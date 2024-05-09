@@ -6,7 +6,7 @@
   <br>
   <strong>Current stack:</strong>
   <ul>
-    <li>Main languague: `Javascript` .</li>
+    <li>Main languague: ```Javascript .</li>
     <li>Backend: `Node.js` .</li>
     <li>Frontend: `Reactjs` , `HTML5` , `CSS` , `Javascritp`.</li>
     <li>Layout Design: `Figma` .</li>
