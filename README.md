@@ -12,7 +12,7 @@
     <li>Layout Design: Figma .</li>
     <li>Version code control: Git & Github .</li> 
   </ul>
-   
+   `javascript`
   <br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
