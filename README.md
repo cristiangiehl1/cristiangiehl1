@@ -6,11 +6,13 @@
   <br>
   <strong>Current stack:</strong>
   <ul>
-    <li>Main languague: ```Javascript .</li>
+    <li>Main languague: Javascript .</li>
     <li>Backend: `Node.js` .</li>
     <li>Frontend: `Reactjs` , `HTML5` , `CSS` , `Javascritp`.</li>
     <li>Layout Design: `Figma` .</li>
     <li>Version code control: `Git & Github` .</li>    
+
+    `Javascript`
    
   <br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
