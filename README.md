@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="cristian.giehl@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cristian.giehl@gmail.com" alt="Gmail"/></a>
+  <a href="mailto:cristiangiehl@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:cristiangiehl@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/cristian-giehl-5b3539b4/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-giehl-5b3539b4/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
