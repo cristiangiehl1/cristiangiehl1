@@ -3,6 +3,7 @@
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.
   <br>
+  <br>
   <strong>Current stack:</strong>
   <ul>
     <li>Main languague: `Javascript`.</li>
