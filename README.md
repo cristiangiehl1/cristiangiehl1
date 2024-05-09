@@ -4,15 +4,20 @@
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.
   <br>
   <br>
+  \```
   <strong>Current stack:</strong>
-  <ul>
+  \```
+  <ul style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
     <li>Main languague: Javascript .</li>
     <li>Backend: Node.js .</li>
     <li>Frontend: Reactjs , HTML5 , CSS , Javascritp.</li>
     <li>Layout Design: Figma .</li>
     <li>Version code control: Git & Github .</li> 
   </ul>
-   `javascript`
+
+  
+
+
   <br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
