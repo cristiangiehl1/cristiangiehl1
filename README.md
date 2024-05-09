@@ -3,21 +3,18 @@
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.
   <br>
-  <br>
-  <strong>Current stack:</strong>
 
-  <ul>
-    <li>Main languague: Javascript .</li>
-    <li>Backend: Node.js .</li>
-    <li>Frontend: Reactjs , HTML5 , CSS , Javascritp.</li>
-    <li>Layout Design: Figma .</li>
-    <li>Version code control: Git & Github .</li> 
-  </ul>
   <br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-`git status`
+  <strong>Current stack:</strong>
+- ⚡ Main language: `Javascritp`.
+- ⛓️ Backend: `Node.js`.
+- 🖼️ Frontend: `ReactJS`, `HTML5`, `CSS`, `Javascritp`.
+- 🎨 Layout Design: `Figma`.
+- 🖲️ Version code control: `Git & Github`.
+
 
 <p align="left">
   🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
@@ -25,8 +22,9 @@
 
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-  - Tools: `VsCode`, `Insomnia`, `Beekeeper`.
 </p>
+
+- 🛠️ Tools: `VsCode`, `Insomnia`, `Beekeeper`
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
