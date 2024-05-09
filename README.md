@@ -1,7 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.
+  ### Current stack
+  - Main languague: `Javascript`.
+  - Backend: `Node.js`.
+  - Frontend: `Reactjs`, `HTML5`, `CSS`, `Javascritp`.
+  - Layout Design: `Figma`.
+  - Version code control: `Git & Github`.
+   
+  <br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
@@ -11,6 +19,7 @@
 
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  - Tools: `VsCode`, `Insomnia`, `Beekeeper`.
 </p>
 
 <p align="left">
