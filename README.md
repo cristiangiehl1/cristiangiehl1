@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Tools:
 </p>
 
 - 🛠️ Tools: `VsCode`, `Insomnia`, `Beekeeper`
