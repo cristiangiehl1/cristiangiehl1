@@ -9,7 +9,7 @@
 </p>
 
   <strong>Current stack:</strong>
-- ⚡ Main language: `Javascritp`.
+- ⚡ Main language: `Javascript`.
 - ⛓️ Backend: `Node.js`.
 - 🖼️ Frontend: `ReactJS`, `HTML5`, `CSS`, `Javascritp`.
 - 🎨 Layout Design: `Figma`.
