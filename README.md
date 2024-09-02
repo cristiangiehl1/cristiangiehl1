@@ -48,7 +48,7 @@
   
   <li>
     <p>
-      Develop full-stack application for playing RPGs online.
+      Develop full-stack application for playing online RPGs. 
     </p>
   </li>
 </ul>
@@ -61,68 +61,44 @@
         🌱 Developing the front-end at <a href="https://www.linkedin.com/company/macroswift/about/" title="MacroSwift linkedin" target="_blank">Marcroswift</a>  startup.
       </p>
     </li>
-    
   </ul>
-    
 </div>
 
 
 
 ## My Tech Stacks
-<div style="display: inline-block;">  
-  <div>
-    <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-    <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind"/>
-    <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000" alt="React"/>
-    <img src="https://img.icons8.com/color/48/ffffff/nextjs.png" alt="Next.js"/>  
-  </div>
-
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  </div>
-
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
-  </div>
+<div>
+  <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000" alt="JavaScript" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48"/>
+  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="48"/>
+  <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000" alt="React" width="48"/>
+  <img src="https://img.icons8.com/color/48/ffffff/nextjs.png" alt="Next.js" width="48" />
   
-  <div>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="48px"/>
-    <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express"/>
-  </div>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48"/>
   
-  <div>
-    <img src="https://img.icons8.com/color/50/000000/test-tube.png" alt="Supertest"/>
-    <img src="https://vitest.dev/logo-shadow.svg" width="48px" alt="Vitest"/>
-  </div>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48"/>
   
-  <div>  
-    <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000" alt="Prisma"/>
-    <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" width="48px" alt="Knex"/>
-  </div>
-
-  <div>
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40px" alt="GSAP"/>  
-    <img src="https://zod.dev/logo.svg" width="48px" alt="Zod"/> 
-  </div>
-
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="48"/>
+  <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express" width="48"/>
+  
+  <img src="https://img.icons8.com/color/50/000000/test-tube.png" alt="Supertest" width="48"/>
+  <img src="https://vitest.dev/logo-shadow.svg" alt="Vitest" width="48"/>
+  
+  <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000" alt="Prisma" width="48"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" alt="Knex" width="48"/>
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40"/>
+  <img src="https://zod.dev/logo.svg" alt="Zod" width="48"/>
+  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/>
 </div>
-  
 
-## Github status
+
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/cristiangiehl1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangiehl1&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiangiehl1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-
-
