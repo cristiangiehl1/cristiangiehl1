@@ -38,26 +38,24 @@
   </li>  
 </ul>
 
-<h3>My current goals:</h3>
-
+## My current goals
 <ul>
   <li>
     <p>
       Enhance my knowledge in Node.js.
     </p>
   </li>
+  
   <li>
     <p>
       Develop my full-stack application for playing RPGs online.
     </p>
-</li>
-
+  </li>
 </ul>
 
 
-
-<h3 style="border: 2px solid grey;">My Tech Stacks</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+## My Tech Stacks
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; padding: 0; margin: 0">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
@@ -91,6 +89,13 @@
   
 
   <img src="https://zod.dev/logo.svg" width="48px" alt="Zod"/> 
+</div>
+
+
+## Github status
+<div style="display: flex; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangiehl1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiangiehl1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
