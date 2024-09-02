@@ -96,6 +96,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/>
 </div>
 
+##
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/cristiangiehl1">
