@@ -55,42 +55,52 @@
 
 
 ## My Tech Stacks
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; padding: 0; margin: 0">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind"/>
+
+<div style="display: flex;">  
+  <div>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind"/>
+    <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000" alt="React"/>
+    <img src="https://img.icons8.com/color/48/ffffff/nextjs.png" alt="Next.js"/>  
+  </div>
+
+  <div>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  </div>
+
+  <div>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  </div>
   
-  <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000" alt="React"/>
-  <img src="https://img.icons8.com/color/48/ffffff/nextjs.png" alt="Next.js"/>
-
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
-
+  <div>
+    <img src="https://raw.githubusercontent.com/fastify/graphics/96648545bcad9d1984dd96363a39e2775b59afef/fastify-landscape-outlined.svg" width="100px" alt="Fastify"/>  
+    <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express"/>
+  </div>
   
-  <img src="https://img.icons8.com/?size=48&id=VMRAbKfEzssG&format=png&color=ffffff" alt="Sqlite"/>
-
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-
-  <img src="https://raw.githubusercontent.com/fastify/graphics/96648545bcad9d1984dd96363a39e2775b59afef/fastify-landscape-outlined.svg" width="100px" alt="Fastify"/>  
-  <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express"/>
-
-
-  <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000" alt="Prisma"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" width="48px"  alt="Knex"/>
-
-  <img src="https://img.icons8.com/color/50/000000/test-tube.png" alt="Supertest"/>
-  <img src="https://vitest.dev/logo-shadow.svg" width="48px" alt="Vitest"/>
+  <div>
+    <img src="https://img.icons8.com/color/50/000000/test-tube.png" alt="Supertest"/>
+    <img src="https://vitest.dev/logo-shadow.svg" width="48px" alt="Vitest"/>
+  </div>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40px" alt="GSAP"/>
-  
+  <div>  
+    <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000" alt="Prisma"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" width="48px"  alt="Knex"/>
+  </div>
 
-  <img src="https://zod.dev/logo.svg" width="48px" alt="Zod"/> 
+  <div>
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40px" alt="GSAP"/>  
+    <img src="https://zod.dev/logo.svg" width="48px" alt="Zod"/> 
+  </div>
+
+  <div>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  </div>
 </div>
-
+  
 
 ## Github status
 <div style="display: flex; align-items: center;">
