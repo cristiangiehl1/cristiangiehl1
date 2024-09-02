@@ -28,17 +28,17 @@
   </li>
   <li>
     <p align="left"> 
-      🤖 Transitioning to tech, and since then, I've become completely passionate about this field.
+      🤖 Transitioning to tech, and since then, I've become completely passionate about it.
     </p>
   </li>
     <li>
     <p align="left"> 
-      💻 Fullstack Developer | Games and RPG Enthusiast | Gym rat
+      💻 Fullstack Developer | 🎲 Games and RPG Enthusiast | 🏋🏻Gym rat.
     </p>
   </li>  
 </ul>
 
-<h3>My current goals</h3>
+<h3>Goals</h3>
 <ul>
   <li>
     <p>
@@ -48,17 +48,30 @@
   
   <li>
     <p>
-      Develop my full-stack application for playing RPGs online.
+      Develop full-stack application for playing RPGs online.
     </p>
   </li>
 </ul>
 
+<div>
+  <h3>Currently working on</h3>
+  <ul>
+    <li>
+      <p>
+        🌱 Developing the front-end at <a href="https://www.linkedin.com/company/macroswift/about/" title="MacroSwift linkedin" target="_blank">Marcroswift</a>  startup.
+      </p>
+    </li>
+    
+  </ul>
+    
+</div>
+
+
 
 ## My Tech Stacks
-
 <div style="display: flex;">  
   <div>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
@@ -76,8 +89,8 @@
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
   </div>
   
-  <div>
-    <img src="https://raw.githubusercontent.com/fastify/graphics/96648545bcad9d1984dd96363a39e2775b59afef/fastify-landscape-outlined.svg" width="100px" alt="Fastify"/>  
+  <div>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="48px"/>
     <img src="https://img.icons8.com/color/50/000000/express-js.png" alt="Express"/>
   </div>
   
@@ -88,7 +101,7 @@
   
   <div>  
     <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000" alt="Prisma"/>
-    <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" width="48px"  alt="Knex"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Knex.js.svg" width="48px" alt="Knex"/>
   </div>
 
   <div>
@@ -104,6 +117,7 @@
 
 ## Github status
 <div style="display: flex; align-items: center;">
+  <a href="https://github.com/cristiangiehl1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangiehl1&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiangiehl1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
