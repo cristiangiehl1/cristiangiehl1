@@ -38,7 +38,7 @@
   </li>  
 </ul>
 
-## My current goals
+<h3>My current goals</h3>
 <ul>
   <li>
     <p>
