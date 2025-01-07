@@ -42,7 +42,7 @@
 <ul>
   <li>
     <p>
-      Enhance my knowledge in Node.js.
+      Enhance my knowledge in Rust.
     </p>
   </li>
   
