@@ -53,7 +53,7 @@
   </li>
     <li>
     <p>
-      Finish my landing page <a href="https://cristiangiehl.com.br/" title="zaptech website link" target="_blank">ZapTech</a>. 
+      Finish my <a href="https://cristiangiehl.com.br/" title="zaptech website link" target="_blank">landing page </a>. 
     </p>
   </li>
 </ul>
