@@ -51,6 +51,11 @@
       Develop full-stack application for playing online RPGs. 
     </p>
   </li>
+    <li>
+    <p>
+      Finish my landing page <a href="https://cristiangiehl.com.br/" title="zaptech website link" target="_blank">ZapTech</a>. 
+    </p>
+  </li>
 </ul>
 
 <div>
