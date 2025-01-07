@@ -58,7 +58,7 @@
   <ul>
     <li>
       <p>
-        🌱 Developing the front-end at <a href="https://www.linkedin.com/company/macroswift/about/" title="MacroSwift linkedin" target="_blank">Marcroswift</a>  startup.
+        🌱 Developing the front-end at <a href="https://www.zaptech.io/" title="zaptech website link" target="_blank">ZapTech</a>  startup.
       </p>
     </li>
   </ul>
