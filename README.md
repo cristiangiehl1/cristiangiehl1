@@ -26,11 +26,6 @@
       👨🏻‍💼 Former credit analyst in the financial market and real estate agent.
     </p>
   </li>
-  <li>
-    <p align="left"> 
-      🤖 Transitioning to tech, and since then, I've become completely passionate about it.
-    </p>
-  </li>
     <li>
     <p align="left"> 
       💻 Fullstack Developer | 🎲 Games and RPG Enthusiast | 🏋🏻Gym rat.
