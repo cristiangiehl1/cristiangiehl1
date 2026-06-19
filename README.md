@@ -1,92 +1,118 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<h3>Hello there, I'm Cristian Giehl</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/cristian-giehl-5b3539b4/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-giehl-5b3539b4/" alt="LinkedIn" />
-  </a>  
-  <a href="mailto:cristiangiehl@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cristiangiehl@gmail.com" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/5547991115903" title="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5547991115903" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/cristian.giehl/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cristian.giehl/" alt="Instagram" />
-  </a>
-</p>
-
----
-
-### 👨🏻‍💻 About Me
-
-- 🔄 Career transition: Former credit analyst in the financial market and real estate agent
-- 💻 Fullstack Developer passionate about building great applications
-- 🎲 Games and RPG enthusiast
-- 🏋🏻 Gym rat
-
-### 🎯 Current Goals
-
-- 📚 Enhance my knowledge in **Rust**
-- 🎮 Develop a full-stack application for playing online RPGs
-- 🌐 Finish my [landing page](https://cristiangiehl.com.br/)
-
-### 💼 Currently Working On
-
-- 🌱 Software Engineer at [ZapTech](https://www.zaptech.io/) startup
-
----
-
-### 🛠️ Tech Stack
-
-<details>
-<summary><b>Click to expand</b></summary>
-
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-#### Database & ORM
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Knex](https://img.shields.io/badge/Knex.js-E16529?style=for-the-badge&logo=knex&logoColor=white)
-
-#### Testing
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-99424F?style=for-the-badge&logo=test&logoColor=white)
-
-#### Validation & Tools
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
----
-
-### 📊 GitHub Stats
+#
 
 <div align="center">
-  <a href="https://github.com/cristiangiehl1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangiehl1&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiangiehl1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Giehl&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <h3 align="center">Full-Stack Developer | Building scalable apps & AI solutions</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristian-giehl-5b3539b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cristiangiehl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5547991115903" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/cristian.giehl/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://cristiangiehl.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristiangiehl1&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangiehl1" />
-</p>
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+- 🔄 Career transition: Former credit analyst and real estate agent turned developer
+- 💼 Software Engineer at **Grupo Koch S/A**
+- 🎮 Games and RPG enthusiast
+- 🏋 Gym rat
+- 🤖 Currently building **multi-agent AI solutions** with OpenAI
+
+</td>
+<td width="40%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiangiehl1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Project
+
+<div align="center">
+  <h3>🤖 Multi-Agent AI Platform — Grupo Koch S/A</h3>
+  <p>Building an enterprise-grade multi-agent AI system powered by OpenAI with:</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi_Agent-AI-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tool_Integration-✓-4ECDC4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RBAC-Security-2C3E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database-Integration-2980B9?style=flat-square"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<div align="center">
+
+| Frontend | Backend | Database | DevOps & Tools |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) | ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![SeaORM](https://img.shields.io/badge/SeaORM-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Loco](https://img.shields.io/badge/Loco-000000?style=for-the-badge&logo=rust&logoColor=white) | | |
+
+</div>
+
+### Libraries & Tools
+<div align="center">
+
+| State & Data | Forms & Validation | HTTP & API | Animation & UI |
+|:---:|:---:|:---:|:---:|
+| ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white) | ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white) | ![Ky](https://img.shields.io/badge/Ky-FF6B6B?style=flat-square) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) |
+| ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) | ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white) | ![Axios](https://img.shields.io/badge/Axios-5A29E5?style=flat-square&logo=axios&logoColor=white) | ![Recharts](https://img.shields.io/badge/Recharts-222222?style=flat-square) |
+
+</div>
+
+---
+
+## 🎯 Goals
+
+- [x] 🔄 Career transition into software development
+- [ ] 📚 Master **Rust** ecosystem (Loco, SeaORM)
+- [ ] 🤖 Launch multi-agent AI platform at Grupo Koch
+- [ ] 🎮 Build full-stack RPG online game
+- [ ] 🌐 Launch personal [portfolio](https://cristiangiehl.com.br/)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangiehl1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristiangiehl1&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180em"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
