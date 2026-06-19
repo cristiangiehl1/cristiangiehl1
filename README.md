@@ -32,6 +32,7 @@
 <tr>
 <td width="60%">
 
+- 🔄 Career transition: Former credit analyst and real estate agent turned developer
 - 💼 Software Engineer at **Grupo Koch S/A**
 - 🎮 Games and RPG enthusiast
 - 🏋 Gym rat
@@ -99,6 +100,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 
 ### 🧪 Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
